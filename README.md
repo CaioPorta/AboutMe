@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CabreroBR
 - 👀 I’m interested in automatizing processes.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on robotics automation.
 - 📫 How to reach me: https://www.linkedin.com/in/caio-moreira-porta/
