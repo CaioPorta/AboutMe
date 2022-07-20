@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CabreroBR
 - 👀 I’m interested in automatizing processes.
-- 🌱 I’m currently learning Python and C++.
-- 📫 How to reach me: https://www.linkedin.com/in/caio-moreira-porta/
+- 🌱 I’m currently learning JAVA, JavaScript, .NET, HTM5, CSS, SQL and selenium (python).
+- 📫 Contact me: https://www.linkedin.com/in/caio-moreira-porta/
